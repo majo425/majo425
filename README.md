@@ -23,7 +23,7 @@ Majo</a></h1>
 </p>
 
 # 📊 GitHub Stats:
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=majo425&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=majo425&theme=dark&hide_border=false) | ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=majo425&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=majo425&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=majo425&theme=dark&hide_border=false) | ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?majo425=majo425&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 |---|---|---|
 
 ## 🏆 GitHub Trophies
